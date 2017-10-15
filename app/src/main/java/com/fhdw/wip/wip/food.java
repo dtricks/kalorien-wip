@@ -5,4 +5,6 @@ package com.fhdw.wip.wip;
  */
 
 public class food {
+    private String name;
+
 }
