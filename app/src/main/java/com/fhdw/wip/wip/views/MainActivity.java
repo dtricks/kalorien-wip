@@ -1,7 +1,9 @@
-package com.fhdw.wip.wip;
+package com.fhdw.wip.wip.views;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.fhdw.wip.wip.R;
 
 public class MainActivity extends AppCompatActivity {
 
